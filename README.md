@@ -6,6 +6,6 @@ Building custom navigation controls (joysticks, directional pads, gamepads) that
 <img width="1549" height="974" alt="image" src="https://github.com/user-attachments/assets/9c926be3-f696-46f6-b386-be26eb05e05e" />
 
 
-You can watch the video to see what I am talking about
+You can watch the video to see what I am talking about.
 https://github.com/user-attachments/assets/7710f01b-a1f5-454c-aa91-f63304c55525
 
